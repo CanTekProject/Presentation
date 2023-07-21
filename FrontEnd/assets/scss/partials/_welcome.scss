@@ -1,0 +1,25 @@
+
+.btn-custom {
+    
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .btn-blue {
+    background-color:#007bff;
+  }
+  
+  .btn-blue:hover {
+    background-color: #007bff; 
+  }
+  
+@media screen and (max-width: 768px) {
+    .button-section {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+  }
